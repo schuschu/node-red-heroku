@@ -8,7 +8,9 @@
         "feedparser":"~0.19.2",
         "redis":"~0.10.1",
         "node-red": "0.x",
-        "node-red-contrib-coap": "0.x"
+        "node-red-contrib-coap": "0.x",
+        "node-red-contrib-scx-ibmiotapp":"0.x",
+        "node-red-node-mongodb":"0.x"
     },
     "engines": {
         "node": "0.10.x"
